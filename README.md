@@ -75,6 +75,7 @@ Websites and apps for browsing match, player and team statistics.
 - [SofaScore](https://www.sofascore.com/) - Live scores and match statistics website and app. `Free` · [Details](https://sportsdatastack.com/tools/sofascore/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
 - [Tifolab](https://www.tifolab.com/) - Player and team comparison with radars, percentiles and shortlists across 74 competitions. `Free` · [Details](https://sportsdatastack.com/tools/tifolab/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
 - [Transfermarkt](https://www.transfermarkt.com/) - Football database of market values, transfers, contracts and squads for 1,300+ leagues. `Free` · [Details](https://sportsdatastack.com/tools/transfermarkt/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
+- [vereinsweg.de](https://www.vereinsweg.de/) - Season-by-season history of 129 German clubs (league tier, position, titles, coaches, players) with recorded matches and per-club JSON/CSV downloads, in German. `Free`
 - [WhoScored](https://www.whoscored.com/) - Match and player statistics with player ratings and per-game leaderboards for major leagues. `Free` · [Details](https://sportsdatastack.com/tools/whoscored/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
 
 ## APIs
