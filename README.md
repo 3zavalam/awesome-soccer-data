@@ -140,6 +140,7 @@ Also cover women's football: [American Soccer Analysis](https://www.americansocc
 
 Downloadable datasets: results, World Cups, transfers, odds and ID mappings.
 
+- [European Football Draws and Home Advantage](https://github.com/gimlak/european-football-home-advantage) - CC0 CSVs with 7,230 full-time results and reproducible outcome-rate summaries for 20 league-seasons across five European leagues, covering 2020/21–2023/24 and derived from OpenFootball. `Free`
 - [European Soccer Database (Kaggle)](https://www.kaggle.com/datasets/hugomathien/soccer) - SQLite dataset of 25k+ European matches, players and odds from 2008 to 2016. `Free`
 - [Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup) - Collection of 27 datasets on every men's (1930-2022) and women's (1991-2019) FIFA World Cup. `Free` · [Details](https://sportsdatastack.com/tools/fjelstul-world-cup-database/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
 - [football-data.co.uk](https://football-data.co.uk/data.php) - Historical CSV results, match stats and odds for 25+ leagues going back decades. `Free` · [Details](https://sportsdatastack.com/tools/football-data-co-uk/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
