@@ -94,6 +94,7 @@ Programmatic access to fixtures, live scores, stats and odds.
 - [TheSportsDB](https://www.thesportsdb.com/) - Crowd-sourced multi-sport database and JSON API of teams, players, events and artwork. `Freemium` · [Details](https://sportsdatastack.com/tools/thesportsdb/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
 - [TheStatsAPI](https://www.thestatsapi.com/) - Football stats API with fixtures, live scores, player stats, xG and odds for 150 competitions. `Paid` · [Details](https://sportsdatastack.com/tools/thestatsapi/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
 - [zerozero API](https://api.zerozero.pt/) - API from the Portuguese site zerozero with competitions, clubs, players, fixtures and statistics. `Freemium` · [Details](https://sportsdatastack.com/tools/zerozero-api/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
+- [Sports Odds API](https://apify.com/publicrecords/sports-odds-api) - Live odds from 24 Kambi-powered sportsbooks (BetRivers, Unibet, Paf...) with best price per outcome (Apify Actor, API + MCP).
 
 ## Python Libraries
 
