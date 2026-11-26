@@ -2,7 +2,7 @@
 
 > A curated list of soccer (football) data sources, APIs, libraries and tools.
 
-This list collects 88 data sources and tools for soccer analytics: event and tracking data, xG models, stats websites, APIs, Python and R libraries, datasets and scouting platforms. It covers free and paid options and men's and women's competitions worldwide.
+This list collects 89 data sources and tools for soccer analytics: event and tracking data, xG models, stats websites, APIs, Python and R libraries, datasets and scouting platforms. It covers free and paid options and men's and women's competitions worldwide.
 
 Legend: `Free` - free to use. `Freemium` - free tier plus paid plans. `Paid` - paid only, including contact-sales and enterprise products.
 
@@ -177,6 +177,7 @@ Tutorials, courses, handbooks and other curated lists.
 
 - [awesome-soccer-analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) - Curated list of soccer analytics resources (not actively updated). `Free` · [Details](https://sportsdatastack.com/tools/awesome-soccer-analytics/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
 - [Edd Webster football_analytics](https://github.com/eddwebster/football_analytics) - Collection of football analytics projects and a curated list of public resources. `Free` · [Details](https://sportsdatastack.com/tools/edd-webster-football-analytics/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
+- [Find closing odds for one football match](https://github.com/JacobiusMakes/parlayapi-notebooks/tree/main/labs/historical-match) - Python notebook and printable exercise on matching fixtures and checking closing home, draw and away prices in a Premier League season CSV. `Free`
 - [Friends of Tracking (YouTube)](https://www.youtube.com/@friendsoftracking755) - Video lectures and tutorials on analysing football tracking data. `Free`
 - [LaurieOnTracking](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking) - Friends of Tracking tutorial code for working with Metrica tracking data in Python. `Free` · [Details](https://sportsdatastack.com/tools/laurieontracking/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
 - [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) - Getting-started guide and notebooks for soccer analytics. `Free` · [Details](https://sportsdatastack.com/tools/soccer-analytics-handbook/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
