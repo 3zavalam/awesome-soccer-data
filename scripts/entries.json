@@ -97,6 +97,7 @@
   {"slug": "laurieontracking", "category": "learning", "tag": "free", "blurb": "Friends of Tracking tutorial code for working with Metrica tracking data in Python."},
   {"slug": "awesome-soccer-analytics", "category": "learning", "tag": "free", "blurb": "Curated list of soccer analytics resources (not actively updated)."},
   {"slug": "edd-webster-football-analytics", "category": "learning", "tag": "free", "blurb": "Collection of football analytics projects and a curated list of public resources."},
+  {"slug": null, "name": "Find closing odds for one football match", "url": "https://github.com/JacobiusMakes/parlayapi-notebooks/tree/main/labs/historical-match", "category": "learning", "tag": "free", "blurb": "Python notebook and printable exercise on matching fixtures and checking closing home, draw and away prices in a Premier League season CSV."},
   {"slug": null, "name": "Friends of Tracking (YouTube)", "url": "https://www.youtube.com/@friendsoftracking755", "category": "learning", "tag": "free", "blurb": "Video lectures and tutorials on analysing football tracking data."},
   {"slug": null, "name": "Soccermatics", "url": "https://soccermatics.readthedocs.io/", "category": "learning", "tag": "free", "blurb": "Python course material on football analytics by David Sumpter."}
 ]
